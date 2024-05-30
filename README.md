@@ -1,5 +1,5 @@
 # 🏝 Meu portifólio
-- Link do projeto -> [https://netflix-clone-taupe-nine.vercel.app/auth](https://portifolio-fza3ienti-gabrielmina118s-projects.vercel.app/)
+- Link do projeto -> [https://portifolio-fza3ienti-gabrielmina118s-projects.vercel.app/]
 ## 📍 Sobre
 
 Esse repositório contem minha página pessoal
