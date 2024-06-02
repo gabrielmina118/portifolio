@@ -25,7 +25,8 @@
           description:
               "Um clone da aplicação Airbnb versão web utilizando React , NextJS , Tailwind CSS , Prisma , MongoDB , NextAuth e Vercel",
           ghLink: "https://github.com/gabrielmina118/airbnb-clone",
-          demoLink: "https://netflix-clone-taupe-nine.vercel.app/auth",
+          demoLink:
+              "https://airbnb-projeto-kslpblp9u-gabrielmina118s-projects.vercel.app/",
           category: "web development",
       },
   ];
